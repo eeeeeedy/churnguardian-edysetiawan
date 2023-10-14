@@ -1,7 +1,7 @@
 # ChurnGuardian
 <img src="https://github.com/FTDS-assignment-bay/FTDS-007-HCK-group-002/blob/main/assets/ChurnGuardian-Logo-Transparants.png?raw=true" width="50%">
 
-<h3 align="left"><a href="https://huggingface.co/spaces/Irfnn/Final_Projects">Machine learning application to predict customer churn and loyalty, and clusters customers for targeted strategies.</a></h3>
+<h3 align="left"><a href="https://huggingface.co/spaces/eeeeeedy/churnguardian">Machine learning application to predict customer churn and loyalty, and clusters customers for targeted strategies.</a></h3>
 
 - [Edy Setiawan](https://www.linkedin.com/in/edysetiawan/)
 
