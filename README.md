@@ -36,9 +36,11 @@ To develop a machine learning model that predicts customer churn in the telecomm
 
 ## Demo
 
-App Demo Link : https://huggingface.co/spaces/Irfnn/Final_Projects
+- App Demo Link : https://huggingface.co/spaces/eeeeeedy/churnguardian
+  . Note: if app is not loading, please click "Restart this Space" button
 
-How to use the app video: [Watch the Video](https://www.youtube.com/watch?v=O-dJi6GAvT8)
+
+- How to use the app video: [Watch the Video](https://www.youtube.com/watch?v=O-dJi6GAvT8)
 
 ## Technology Stacks
 
