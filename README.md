@@ -3,12 +3,8 @@
 
 <h3 align="left"><a href="https://huggingface.co/spaces/Irfnn/Final_Projects">Machine learning application to predict customer churn and loyalty, and clusters customers for targeted strategies.</a></h3>
 
-## Team
-
 - [Edy Setiawan](https://www.linkedin.com/in/edysetiawan/)
-- [Irfansyah Alif Muhammad](https://www.linkedin.com/in/irfansyahalifmuhammad/)
-- [Sagara Biru](https://www.linkedin.com/in/sagara-biru/)
-- [Yosef Feriyanto](https://www.linkedin.com/in/yosef-feriyanto-522754175/)
+
 
 ## Project's Background
 
