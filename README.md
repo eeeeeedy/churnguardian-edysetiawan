@@ -5,8 +5,15 @@
 
 - [Edy Setiawan](https://www.linkedin.com/in/edysetiawan/)
 
+# Table of Contents
 
-## Project's Background
+- [Project's Background](#project's-background)
+- [Datasets](#datasets)
+- [Objectives](#objectives)
+- [Demo](#demo)
+- [Technology Stacks](#technology-stacks)
+
+# Project's Background
 
 **Background:**
 
@@ -16,14 +23,14 @@ The telecommunications industry is highly competitive, and customer churn is a s
 
 To develop a machine learning model that predicts customer churn in the telecommunications industry with at least 80% recall score, and to segment the identified "at-risk" customers into clusters for targeted retention strategies.
 
-## Datasets
+# Datasets
 
 **Dataset Overview:**
 
 - Dataset Source: This dataset is obtained from the Kaggle public dataset
 - This dataset contains information about customers in the telecommunications industry, focusing on various attributes that could be indicative of customer churn
 
-## Objectives
+# Objectives
 
 - Data Preparation and Exploration: To clean and explore the dataset to understand the variables that influence customer churn.
 - Predictive Modeling: To develop a classification model that can predict customer churn with an accuracy of at least 85%.
@@ -34,7 +41,7 @@ To develop a machine learning model that predicts customer churn in the telecomm
 <h3 align="left">WORKFLOW CHART</h3>
 <img src="https://github.com/FTDS-assignment-bay/FTDS-007-HCK-group-002/blob/main/assets/Flowchart_Fix.png?raw=true" width="50%">
 
-## Demo
+# Demo
 
 - App Demo Link : https://huggingface.co/spaces/eeeeeedy/churnguardian
   . Note: if app is not loading, please click "Restart this Space" button
@@ -43,7 +50,7 @@ To develop a machine learning model that predicts customer churn in the telecomm
 
 - For model testing, you may download example CSV file here : https://github.com/eeeeeedy/churnguardian-edysetiawan/blob/main/dataset/data_testing_for_application.csv
 
-## Technology Stacks
+# Technology Stacks
 
 #### Data Manipulation and Analysis:
 - **Pandas**: Data manipulation and analysis
