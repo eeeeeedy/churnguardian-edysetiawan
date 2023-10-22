@@ -68,7 +68,7 @@ To develop a machine learning model that predicts customer churn in the telecomm
   - Decision Trees: Classification
   - Support Vector Machines (SVM): Classification
   - Logistic Regression: Classification
-- **Hugging Face**: Model deployment
+- **Streamlit/Hugging Face**: Model deployment
 
 #### Model Evaluation Techniques:
 - **Scikit-learn (sklearn)**
