@@ -44,7 +44,7 @@ selected_page = st.sidebar.radio('Select Page', ('📋 Home Page', '📊 Explora
 if selected_page == '📋 Home Page':
     st.image("https://github.com/eeeeeedy/churnguardian-edysetiawan/blob/main/assets/ChurnGuardian-Logo-Transparants.png?raw=true", use_column_width=True)
     # st.title('Machine Learning Application Project')
-    st.subheader('Edy Setiawan')
+    st.markdown('Made by <a href="hhttps://www.linkedin.com/in/edysetiawan/" target="_blank" style="font-size: 35px;">Edy Setiawan</a>', unsafe_allow_html=True)
     st.header('Background')
     st.markdown('''
                 The telecommunications industry is highly competitive, and customer churn is a significant concern. Retaining existing customers is often more cost-effective than acquiring new ones.
