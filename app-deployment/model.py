@@ -21,26 +21,26 @@ def run():
     choice = st.selectbox("How would you like to input data?", ["Upload CSV File", "Manual Input"])
 
     # A. For CSV
-if choice == "Upload CSV File":
-    st.markdown("""
-    ### File Upload Instructions
-    ---
-    #### Required Columns in CSV File:
-
-    **Numerical Columns:**
-    - Tenure in Months
-    - Number of Referrals
-    - Total Revenue
-
-    **Categorical Columns:**
-    - Contract
-    - Offer
-    - Online Security
-    - Premium Tech Support
-    - Device Protection Plan
-
-    [Click Here to Download Sample CSV for Testing](https://github.com/eeeeeedy/churnguardian-edysetiawan/blob/main/dataset/data_testing_for_application.csv)
-    """)
+    if choice == "Upload CSV File":
+        st.markdown("""
+        ### File Upload Instructions
+        ---
+        #### Required Columns in CSV File:
+    
+        **Numerical Columns:**
+        - Tenure in Months
+        - Number of Referrals
+        - Total Revenue
+    
+        **Categorical Columns:**
+        - Contract
+        - Offer
+        - Online Security
+        - Premium Tech Support
+        - Device Protection Plan
+    
+        [Click Here to Download Sample CSV for Testing](https://github.com/eeeeeedy/churnguardian-edysetiawan/blob/main/dataset/data_testing_for_application.csv)
+        """)
         uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
         if uploaded_file is not None:
             df_uploaded = pd.read_csv(uploaded_file)
