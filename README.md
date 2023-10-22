@@ -44,7 +44,6 @@ To develop a machine learning model that predicts customer churn in the telecomm
 # Demo
 
 - App Demo Link : <a href="https://churnguardian-edysetiawan.streamlit.app/" target="_blank">https://churnguardian-edysetiawan.streamlit.app/</a>
-  . Note: if app is not loading, please click "Restart this Space" button
 
 - How to use the app video: [Watch the Video](https://www.youtube.com/watch?v=O-dJi6GAvT8)
 
